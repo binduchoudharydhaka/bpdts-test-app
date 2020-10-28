@@ -17,5 +17,5 @@ To run tests :
     
 You can obtain the list of users in and within 50 miles of London by visiting the API at:
 
-http://localhost:8080/api/london/users
+http://localhost:8080/app/london/users
 
